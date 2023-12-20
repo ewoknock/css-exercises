@@ -1,0 +1,14 @@
+.blacknwhite {
+    background-color: black;
+    color: white;
+}
+
+.color {
+    background-color: yellow;
+}
+
+.blacknwhite,
+.color{
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
